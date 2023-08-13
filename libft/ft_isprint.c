@@ -6,11 +6,11 @@
 /*   By: sbuker <sbuker@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/25 16:31:57 by sbuker            #+#    #+#             */
-/*   Updated: 2023/08/13 20:42:26 by sbuker           ###   ########.fr       */
+/*   Updated: 2023/08/13 21:53:02 by sbuker           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "libft.h"
 
 int	ft_isprint(int c)
 {

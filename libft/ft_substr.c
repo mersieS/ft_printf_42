@@ -6,11 +6,11 @@
 /*   By: sbuker <sbuker@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/25 16:39:19 by sbuker            #+#    #+#             */
-/*   Updated: 2023/08/13 20:43:48 by sbuker           ###   ########.fr       */
+/*   Updated: 2023/08/13 21:53:02 by sbuker           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "libft.h"
 
 char	*ft_substr(const char *s, unsigned int start, size_t len)
 {

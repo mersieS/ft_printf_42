@@ -6,11 +6,11 @@
 /*   By: sbuker <sbuker@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/25 16:33:44 by sbuker            #+#    #+#             */
-/*   Updated: 2023/08/13 20:42:34 by sbuker           ###   ########.fr       */
+/*   Updated: 2023/08/13 21:53:02 by sbuker           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "libft.h"
 
 void	*ft_memcpy(void *dest, const void *src, size_t n)
 {

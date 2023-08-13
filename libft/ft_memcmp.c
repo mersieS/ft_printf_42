@@ -6,11 +6,11 @@
 /*   By: sbuker <sbuker@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/25 16:33:59 by sbuker            #+#    #+#             */
-/*   Updated: 2023/08/13 20:42:32 by sbuker           ###   ########.fr       */
+/*   Updated: 2023/08/13 21:53:02 by sbuker           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../includes/libft.h"
+#include "libft.h"
 
 int	ft_memcmp(const void *s1, const void *s2, size_t n)
 {
